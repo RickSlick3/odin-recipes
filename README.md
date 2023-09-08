@@ -1,6 +1,6 @@
-# Odin Recipies:
+# Odin Recipes:
 
-This is a project full of bare html webpages that will guide a user to various recipies that may fill their desires. I hope your eyes aren't bigger than your stomaches this time!
+This is a project full of bare html webpages that will guide a user to various recipes that may fill their desires. I hope your eyes aren't bigger than your stomaches this time!
 
 # Learning Objectives
 

@@ -1,0 +1,32 @@
+/* General */
+
+#odin-recipes-container {
+    width: 100%;
+    background-color: azure;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+    #top-of-page-container {
+        background-color: lightblue;
+        height: 120px;
+        text-align: center;
+        font-size: 100px;
+        font-weight: 700;
+    }
+
+    #main-content-container {
+
+        .intro{
+            font-size: 20px;
+            text-align: center;
+            padding-top: 5px;
+            padding-bottom: 5px;
+        }
+
+        #content-header {
+            font-size: 40px;
+            font-weight: 700;
+        }
+    }
+
+}
+/* Index Only */
