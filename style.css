@@ -2,15 +2,15 @@
 
 #odin-recipes-container {
     width: 100%;
-    background-color: azure;
+    background-color:lightcyan;
     font-family:Georgia, 'Times New Roman', Times, serif;
 
     #top-of-page-container {
         background-color: lightblue;
-        height: 120px;
         text-align: center;
         font-size: 100px;
         font-weight: 700;
+        padding-bottom: 10px;
     }
 
     #main-content-container {
